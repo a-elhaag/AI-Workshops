@@ -1,3 +1,5 @@
+# Feel free to uncomment and play
+
 # # 1. Printing  
 # print("Welcome\"\n\t\\ to the Python for AI Workshop!")  
 
