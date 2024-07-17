@@ -3,7 +3,7 @@ This repository contains the weekly session materials. Each week, I’ll update 
 
 ## __Week 1__
 ### Topic: Python for AI
-- [**Slides:**}(Week_1/Slides.pptx)
+- [**Slides:**](Week_1/Slides.pptx)
 - [**Code Samples:**](Week_1/main.py)
 - **Fun Project:** Code a simple If-else based chatbot.
 
