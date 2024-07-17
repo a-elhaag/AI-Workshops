@@ -1,10 +1,10 @@
 ## Overview
 This repository contains the weekly session materials. Each week, I’ll update this README with the latest content.
 
-## Week 1
+## __Week 1__
 ### Topic: Python for AI
-- **Slides:** [Slides](Week_1/Slides.pptx)
-- **Code Samples:** [Main File](Week_1/main.py)
+- [**Slides:**}(Week_1/Slides.pptx)
+- [**Code Samples:**](Week_1/main.py)
 - **Fun Project:** Code a simple If-else based chatbot.
 
 ### Resources for Learning Python
@@ -49,4 +49,4 @@ To help you with the fun project of coding a simple If-else based chatbot, here 
   - [Python If-Else Statements](https://www.w3schools.com/python/python_conditions.asp)
   - [Real Python: Conditional Statements in Python](https://realpython.com/python-conditional-statements/)
 
-Happy learning and coding!
+## _Happy learning and coding!_ 🧑‍💻
