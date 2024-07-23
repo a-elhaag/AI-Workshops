@@ -1,0 +1,16 @@
+def chatbotResponse(user_input):
+    if "menu" in user_input.lower():
+        return menu
+    elif "locations" in user_input.lower(): # else if
+        return locations
+    else:
+        return "invalid choice"
+
+
+locations = ["maadi", "nasr city", "new cairo"]
+menu = ["pizza", "burger", "sushi", "fries"]
+while True:
+    user_input = input("choose whether to view menu or locations\n")
+    if user_input.lower() == "exit":
+        break
+    print(f"response: {chatbotResponse(user_input)}")
