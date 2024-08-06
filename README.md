@@ -3,8 +3,8 @@ This repository contains the weekly session materials. Each week, I’ll update 
 
 ## **Week 1**
 ### Topic: Python for AI
-- [**Slides:**](Week_1/Slides.pptx)
-- [**Code Samples:**](Week_1/main.py)
+- [**Slides**](Week_1/Slides.pptx)
+- [**Code Samples**](Week_1/main.py)
 - **Fun Project:** Code a simple If-else based chatbot.
 
 ### Resources for Learning Python
@@ -99,5 +99,54 @@ VS Code is a popular code editor that is highly customizable and supports many p
    - Follow the installation instructions provided on the website.
 
 By setting up your development environment with one of these IDEs, you'll be ready to start your Python programming journey efficiently and effectively.
+
+## **Week 2**
+### Topic: Intro to API
+- [**Slides**](Week_2/Intro_to_API.pdf)
+
+### Resources
+1. [Fetch API Cheatsheet](https://www.freecodecamp.org/news/fetch-api-cheatsheet/)
+2. [REST API Tutorial – REST Client, REST Service, and API Calls Explained with Code Examples](https://www.freecodecamp.org/news/rest-api-tutorial-rest-client-rest-service-and-api-calls-explained-with-code-examples/)
+3. [What is an API and How to Test It](https://www.freecodecamp.org/news/what-is-an-api-and-how-to-test-it/)
+4. [REST API Design Best Practices – Build a REST API](https://www.freecodecamp.org/news/rest-api-design-best-practices-build-a-rest-api/)
+
+## **Week 3**
+### Topic: Linear and Logistic Regression
+- [**Slides**](Week_3/PowerPoint.pptx)
+
+### Useful Resources for Learning Machine Learning and AI
+
+#### General Machine Learning
+- **Machine Learning by Andrew Ng - Coursera**: [Coursera Course](https://www.coursera.org/learn/machine-learning)
+- **Google's Machine Learning Crash Course**: [ML Crash Course](https://developers.google.com/machine-learning/crash-course)
+- **Fast.ai - Practical Deep Learning for Coders**: [Fast.ai Course](https://www.fast.ai/)
+- **Khan Academy - Introduction to Machine Learning**: [Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms)
+
+#### Python Programming
+- **Python for Data Science Handbook - Jake VanderPlas**: [O'Reilly Book](https://jakevdp.github.io/PythonDataScienceHandbook/)
+- **Automate the Boring Stuff with Python - Al Sweigart**: [Automate the Boring Stuff](https://automatetheboringstuff.com/)
+- **Real Python - Python Tutorials**: [Real Python](https://realpython.com/)
+
+#### Data Science
+- **Introduction to Data Science - O'Reilly Book**: [O'Reilly Book](https://www.oreilly.com/library/view/introduction-to-data/9781449358655/)
+- **Kaggle Learn - Data Science Courses**: [Kaggle Learn](https://www.kaggle.com/learn/overview)
+- **Harvard's Data Science Professional Certificate**: [edX Course](https://www.edx.org/professional-certificate/harvardx-data-science)
+
+#### Deep Learning
+- **Deep Learning Specialization - Coursera**: [Coursera Specialization](https://www.coursera.org/specializations/deep-learning)
+- **Deep Learning with Python - Francois Chollet**: [Manning Publications](https://www.manning.com/books/deep-learning-with-python)
+- **PyTorch Tutorials**: [PyTorch Tutorials](https://pytorch.org/tutorials/)
+- **TensorFlow Tutorials**: [TensorFlow Tutorials](https://www.tensorflow.org/tutorials)
+
+#### Big Data and Cloud
+- **Big Data University - IBM**: [Big Data University](https://bigdatauniversity.com/)
+- **AWS Machine Learning Training**: [AWS Training](https://aws.amazon.com/training/learning-paths/machine-learning/)
+- **Azure Machine Learning Documentation**: [Azure ML](https://docs.microsoft.com/en-us/azure/machine-learning/)
+
+#### Statistics and Probability
+- **Khan Academy - Statistics and Probability**: [Khan Academy](https://www.khanacademy.org/math/statistics-probability)
+- **Think Stats - Probability and Statistics for Programmers**: [O'Reilly Book](https://www.oreilly.com/library/view/think-stats/9781449330293/)
+
+
 
 ## _Happy learning and coding!_ 🧑‍💻
